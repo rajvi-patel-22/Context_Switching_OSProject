@@ -1,0 +1,12 @@
+a 7
+b 3
+div x a b
+a 9
+b 6
+div y a b  
+a 6
+b 4
+div x a b
+a 5
+b 6
+div y a b          

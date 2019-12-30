@@ -1,0 +1,10 @@
+a 2
+b 3
+read file1
+a 5
+b 6
+read file2 
+x 2
+y 3
+read file3 
+y 0

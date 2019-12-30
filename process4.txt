@@ -1,0 +1,6 @@
+a 2
+b 1
+mult x a b
+a 1
+b 6
+mult y a b

@@ -1,0 +1,6 @@
+a 2
+b 3
+add x a b
+a 5
+b 6
+add y a b          
